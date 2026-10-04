@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+
+# secrets
+.env
+.git_old_backup_HAS_KEY/
+
+# virtual environments
+venv*/
+.venv/
+
+# generated / large files
+StreamingAssets/EnvPredictions/today.env.json
+*.wav
+*.mp3
+*.mp4
+
+# macOS junk
+.DS_Store
+DS_Store

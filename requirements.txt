@@ -1,0 +1,5 @@
+pygame==2.5.2
+azure-cognitiveservices-speech==1.37.0   # STT & TTS
+openai==0.28.1                          # Azure OpenAI uses this SDK
+requests
+shapely
